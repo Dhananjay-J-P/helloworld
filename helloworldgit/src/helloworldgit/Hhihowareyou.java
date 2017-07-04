@@ -13,8 +13,7 @@ public class Hhihowareyou {
 	 * 
 	 */
 	public Hhihowareyou() {
-		// TODO Auto-generated constructor stub
-		
+		// new comment
 		
 	}
 
